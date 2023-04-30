@@ -569,7 +569,7 @@ figure.snip1321 * {
   transition: all 0.2s ease-out;
 }
 figure.snip1321 figcaption {
-  top: 50%;
+  top: 30%;
   left: 20px;
   right: 20px;
   position: absolute;
@@ -591,7 +591,7 @@ figure.snip1321 i {
   position: relative!important;
   font-size: 18px;
   background-color: #a43f49;
-  width: 40px;
+  width: 80px;
   height: 40px;
   display: inline-block;
   text-align: center;
