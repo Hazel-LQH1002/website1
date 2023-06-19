@@ -46,11 +46,14 @@ p {
 }
 
 h4 {
+
     font-size: 26px;
-    font-weight: 700;
+    font-weight: 1000;
     color: #fff;
     letter-spacing: 0.25px;
 }
+
+
 
 .demopara {
     line-height: 2 ;
@@ -167,6 +170,8 @@ html {
 }
 
 .menu .image img {
+    margin-right: 80px;
+    margin-bottom: 10px;
     width: 140px;
     height: 140px;
     border-radius: 50%;
@@ -174,14 +179,17 @@ html {
 }
 
 .menu .author-content {
-    margin: 40px 0px 60px 0px;
+    margin: 50px 50px 60px 50px;
 }
 
 .menu .author-content h4 {
-    margin-bottom: 0px;
+    font-size:x-large;
+    margin-top: 40px;
+    margin-left: 40px;
 }
 
 .menu .author-content span {
+    margin-left: 40px;
     font-size: 13px;
     font-style: italic;
     color: #fff;
