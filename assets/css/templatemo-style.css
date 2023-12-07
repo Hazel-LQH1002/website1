@@ -151,6 +151,11 @@ html {
     height: auto;
   }
 
+
+.animated-gif{
+    width: 30px;
+    height: auto;
+  }
 .main-nav {
     text-align: center;
 }
